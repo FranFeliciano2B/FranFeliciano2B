@@ -1,5 +1,5 @@
 ## Hi there 👋
-Meu nome é Francielly Feliciano
+Meu nome é Francielly Feliciano Souza
 
 >Estou estudando na Alura
 >estou me desenvolvendo na linguagem JavaScript
